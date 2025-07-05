@@ -1,6 +1,6 @@
 # Open API Docs
 
-Welcome to the Open API Docs project! This repository contains documentation for our Open API.
+Welcome to the Open API Docs project! This repository contains documentation for  Open API.
 
 ## Table of Contents
 
